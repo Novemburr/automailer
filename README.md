@@ -9,14 +9,7 @@ tim@domain.com
 george@domain.com
 ted@domain.com
 ```
-
-Place your desired message in message.txt, format doesent make a big difference here.
-```
-this is an example message
-more lines
-
-	tab
-```
+The message is currently passed as a parameter be it test or the output of a script.
 
 The subject is set in the mail.sh script.
 
