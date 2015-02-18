@@ -16,5 +16,6 @@ The subject is set in the mail.sh script.
 #ToDos:
 I dont expect to work on this any further but if I did...
 
-Make subject and message optionally get read from command line when the script is run.
+Make subject and message optionally get read from command line when the script is run. Will need to add some flags with optargs..
+
 
