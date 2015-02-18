@@ -18,4 +18,3 @@ I dont expect to work on this any further but if I did...
 
 Make subject and message optionally get read from command line when the script is run.
 
-Allow the message to be the output of a command run by another sh file in the same directory.
